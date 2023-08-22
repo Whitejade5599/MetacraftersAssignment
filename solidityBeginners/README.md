@@ -1,6 +1,6 @@
-#jadeCoin Project Documentation
+# jadeCoin Project Documentation
 
-##Description
+## Description
 
 jadeCoin is a simple Ethereum-based token contract that demonstrates basic functionalities of an ERC20-like token.
 
@@ -10,13 +10,13 @@ Getting Started
 
 To get started with jadeCoin, follow these steps:
 
-##Prerequisites
+## Prerequisites
 
 An Ethereum development environment (e.g., Remix, Truffle)
 
 An Ethereum wallet (e.g., MetaMask) for testing on a local blockchain or testnet
 
-##Installing
+## Installing
 
 Clone the jadeCoin repository from GitHub:
 
@@ -29,7 +29,7 @@ Compile the jadecoin.sol smart contract using the Solidity compiler.
 
 Deploy the contract to a local blockchain or a testnet of your choice.
 
-##Interacting with the Contract
+## Interacting with the Contract
 
 **Mint Tokens:**
 
